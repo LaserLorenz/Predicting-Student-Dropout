@@ -120,7 +120,7 @@ model_info <- function(model){
 print("Read input data")
 # read linearized dataset of exams with enough observations
 
-setwd("C:\\Users\\Lorenz\\OneDrive\\Documents\\Universität\\Projekte\\Predicting Student Dropout\\Implementation\\working version")
+setwd("...\\Documents\\Universität\\Projekte\\Predicting Student Dropout\\Implementation\\working version")
 
 dataset_1 <- read.csv(
   file = "05_correlation/02_output/dataset_noncor_1.csv",

@@ -13,7 +13,7 @@ library(tidyr)        # data wrangling
 # read input-data
 print("Read input data from preanalysis")
 
-setwd("C:\\Users\\Lorenz\\OneDrive\\Documents\\Universität\\Projekte\\Predicting Student Dropout\\Implementation\\working version")
+setwd("...\\Documents\\Universität\\Projekte\\Predicting Student Dropout\\Implementation\\working version")
 
 backup <- read.csv(
   file = "02_preanalysis/02_output/dataset.csv",

@@ -1,7 +1,7 @@
 #########################################
 #Main file to centrally run all scripts from subdirectories
 
-setwd("C:\\Users\\Lorenz\\OneDrive\\Documents\\Universität\\Veröffentlichungen\\Predicting Student Dropout\\Implementation\\working version")
+setwd("...\\Universität\\Veröffentlichungen\\Predicting Student Dropout\\Implementation\\working version")
 
 ###-----------------------------------------------------------------------
 #Step 1: Data integration and cleaning

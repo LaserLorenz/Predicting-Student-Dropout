@@ -34,7 +34,7 @@ corr_removal <- function(dataset){
 print("Read input data")
 # read data set
 
-setwd("C:\\Users\\Lorenz\\OneDrive\\Documents\\Universität\\Projekte\\Predicting Student Dropout\\Implementation\\working version")
+setwd("...\\Documents\\Universität\\Projekte\\Predicting Student Dropout\\Implementation\\working version")
 
 dataset_lin_1 <- read.csv(
   file = "03_linearization/02_output/dataset_lin_1.csv",

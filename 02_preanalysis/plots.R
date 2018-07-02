@@ -42,7 +42,7 @@ build_mean_ds <- function(data = dataset, sem_max = data$sem){
 }
 
 ### DATA IMPORT ##########################################################################################
-setwd("C:\\Users\\Lorenz\\OneDrive\\Documents\\Universität\\Projekte\\Predicting Student Dropout\\Implementation\\working version")
+setwd("...\\Universität\\Projekte\\Predicting Student Dropout\\Implementation\\working version")
 
 spath <- "02_preanalysis/02_output/10_plots"
 

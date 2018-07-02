@@ -68,7 +68,7 @@ if(scaled){
 
 
 ### EXPORT #########################################################################################
-setwd("C:\\Users\\Lorenz\\OneDrive\\Documents\\Universität\\Veröffentlichungen\\Predicting Student Dropout\\Implementation\\working version")
+setwd("...Documents\\Universität\\Veröffentlichungen\\Predicting Student Dropout\\Implementation\\working version")
 
 path <- "07_log-reg/02_output/10_interpretation/"
 

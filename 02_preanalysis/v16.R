@@ -97,7 +97,7 @@ exam_analysis <- function(dataset, sem_filter = dataset$sem){
 ### READING ########################################################################################
 # read input-data
 
-setwd("C:\\Users\\Lorenz\\OneDrive\\Documents\\Universität\\Projekte\\Predicting Student Dropout\\Implementation\\working version")
+setwd("...\\Universität\\Projekte\\Predicting Student Dropout\\Implementation\\working version")
 
 dataset <- read.csv(
   file = "01_database preparation/02_output/dataset.csv", 
@@ -153,7 +153,7 @@ dataset_mean_all <- build_mean_ds(dataset)
 
 
 ### PLOTS ##########################################################################################
-#source("C:\\Users\\Lorenz\\OneDrive\\Documents\\Universität\\Veröffentlichungen\\Predicting Student Dropout\\Implementation\\working version\\02_preanalysis\\plots.R")
+#source("...\\Universität\\Veröffentlichungen\\Predicting Student Dropout\\Implementation\\working version\\02_preanalysis\\plots.R")
 
 ### EXAM ANALYSIS ##################################################################################
 

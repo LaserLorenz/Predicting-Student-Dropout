@@ -16,7 +16,7 @@ library(rattle)
 library(DMwR)       # smote (KNN data balancing)
 library(ggplot2)    # here just for saving plots
 
-setwd("C:\\Users\\Lorenz\\OneDrive\\Documents\\Universität\\Projekte\\Predicting Student Dropout\\Implementation\\working version")
+setwd("...\\Universität\\Projekte\\Predicting Student Dropout\\Implementation\\working version")
 
 set.seed(42)
 

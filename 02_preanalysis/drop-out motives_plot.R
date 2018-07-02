@@ -3,7 +3,7 @@
 library(ggplot2)
 
 motives <- read.csv(
-  file = "~/Desktop/Masterarbeit_local/01_database preparation/03_orga/Heublein_drop-out motives.csv", 
+  file = ".../03_orga/Heublein_drop-out motives.csv", 
   sep = ";"
 )
 
@@ -27,7 +27,7 @@ labs(
 
 plot(my_plot)
 
-spath <- "~/Desktop/Masterarbeit_local/02_preanalysis/02_output"
+spath <- ".../02_output"
 
 ggsave(
   plot = my_plot,

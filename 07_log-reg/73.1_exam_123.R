@@ -124,7 +124,7 @@ print_info = function(cm,  semester, type="non-smoted"){
   
 ### READ DATA ######################################################################################
 
-setwd("C:\\Users\\Lorenz\\OneDrive\\Documents\\Universität\\Projekte\\Predicting Student Dropout\\Implementation\\working version")
+setwd("...\\Documents\\Universität\\Projekte\\Predicting Student Dropout\\Implementation\\working version")
 
 
 #Now loop through three different semester perspectives (join formerly three scripts)

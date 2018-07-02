@@ -21,7 +21,7 @@ print("1) Preparing dataset 1: HIS")
 ### READING ########################################################################################
 print("Import and merge HIS dataset and age data")
 
-setwd("C:\\Users\\Lorenz\\OneDrive\\Documents\\Universität\\Projekte\\Predicting Student Dropout\\Implementation\\working version")
+setwd("...\\Universität\\Projekte\\Predicting Student Dropout\\Implementation\\working version")
 
 # read input-data
 input_data <- read.csv(
