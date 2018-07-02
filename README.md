@@ -1,4 +1,4 @@
-# Predicting-Student-Dropout
+# Predicting Student Dropout
 
 Here you can find my R code to our paper "Predicting Student Dropout: A Machine Learning Approach". 
 ```
