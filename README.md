@@ -12,7 +12,7 @@ We perform two approaches of machine learning, logistic regression and decision 
 
 ## Paper
 
-The entire corresponding paper, in which I outline the process as well as the underlying thoughts and implications can be found at Researchgate.
+The corresponding paper, in which I outline the process as well as the underlying thoughts and implications can be found at Researchgate.
 ```
 https://www.researchgate.net/publication/322919234_Predicting_Student_Dropout_a_Machine_Learning_Approach
 ```
